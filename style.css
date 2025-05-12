@@ -120,49 +120,4 @@ a {
     font-size: 12px;
 }
 
-@media (max-width: 1125px) {
-    .wrapper {
-        height: 25rem;
-        width: 16rem;
-    }
-
-    .image {
-        width: 100px;
-        height: 100px;
-        padding-top: 20px;
-        padding-bottom: 20px;
-        padding-left: 20px;
-        padding-right: 20px;
-    }
-
-    .heading-1 {
-        font-size: 20px;
-    }
-
-    .heading-2 {
-        font-size: 11px;
-        margin-top: 0.1rem;
-    }
-
-    .paragraph {
-        font-size: 0.6rem;
-        margin-top: 1.2rem;
-        margin-bottom: -0.2rem;
-    }
-
-    .link {
-        width: 215px;
-        height: 28px;
-        margin-top: 12px;
-        border-radius: 0.3rem;
-    }
-
-    .github {
-        margin-top: 22px;
-    }
-
-    a {
-        font-size: 10px;
-    }
-}
 
